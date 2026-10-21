@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "generated_at": "2026-10-21T04:37:13.398Z",
+  "request": {
+    "topic": "",
+    "title": "ChorusTIC",
+    "dois": [],
+    "pdf_url": "https://arxiv.org/pdf/2608.24033v2",
+    "si_requested": false,
+    "language_override": "",
+    "route_override": "open_access",
+    "source_url": "",
+    "api_fallback_web": null,
+    "api_fallback_web_for": [],
+    "no_api_fallback_web_for": []
+  },
+  "summary": {
+    "total": 1,
+    "downloaded": 1,
+    "seconds": 0.6
+  },
+  "results": [
+    {
+      "title": "ChorusTIC",
+      "status": "open_access_downloaded",
+      "provider": "direct_url",
+      "accessMode": "open_access",
+      "ok": true,
+      "file": "work\\chorus-download\\PDFs\\ChorusTIC.pdf",
+      "bytes": 658477,
+      "sha256": "cc74ea0a109b7f0f2ef0cfe3b7984e2e477325a24bacca0888d958a2be66a270",
+      "contentType": "application/pdf",
+      "format": "pdf",
+      "source": "https://arxiv.org/pdf/2608.24033v2",
+      "si_requested": false
+    }
+  ]
+}
