@@ -23,7 +23,6 @@
 该工作研究通过上下文推断完成时间序列分类，将带标签样本作为上下文，在目标任务推断时无需更新模型参数。详细方法、实验设置与结果见论文。
 
 - 原始代码仓库：[DMIRLAB-Group/TIC-FM](https://github.com/DMIRLAB-Group/TIC-FM)
-- 归档提交：[`da015302d73c68ab0fc988166ae57e4d814b7681`](https://github.com/DMIRLAB-Group/TIC-FM/commit/da015302d73c68ab0fc988166ae57e4d814b7681)
 - 环境及运行方法：[原项目 README](code/TIC-FM/README.md)
 - DOI：[10.48550/arXiv.2602.00620](https://doi.org/10.48550/arXiv.2602.00620)
 
@@ -34,7 +33,6 @@
 该工作研究面向单变量与多变量时间序列的上下文分类，通过时间及跨通道建模支持不同通道配置，在目标任务推断时无需拟合专用分类器。详细方法、实验设置与结果见论文。
 
 - 原始代码仓库：[DMIRLAB-Group/ChorusTIC](https://github.com/DMIRLAB-Group/ChorusTIC)
-- 归档提交：[`efef93698bd3afa9cfa0b6c7a1aea94190f2549a`](https://github.com/DMIRLAB-Group/ChorusTIC/commit/efef93698bd3afa9cfa0b6c7a1aea94190f2549a)
 - 环境及运行方法：[原项目 README](code/ChorusTIC/README.md)
 - DOI：[10.48550/arXiv.2608.24033](https://doi.org/10.48550/arXiv.2608.24033)
 
@@ -52,9 +50,7 @@
 
 - `papers/`：三篇原始论文 PDF。
 - `code/`：两份源码快照和对应原始 ZIP，未修改上游源文件。
-- [metadata/manifest.json](metadata/manifest.json)：下载地址、源码提交、文件大小、PDF 页数及 SHA-256 校验值。
-- [metadata/SHA256SUMS.txt](metadata/SHA256SUMS.txt)：论文和代码压缩包的校验清单。
 
-本仓库是材料汇总，不是新的模型实现。源码运行说明以各项目 README 为准；模型权重与实验数据不包含在源码快照中。材料整理时未执行模型训练或复现实验。本仓库不预设算力申请的 GPU 型号、卡数或使用时长。
+本仓库是材料汇总，不是新的模型实现。
 
 
